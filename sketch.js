@@ -15,22 +15,22 @@ var score = 0 ;
 
 function preload () {
 
-    bedroomImg = loadImage ("images/bedroom.png");
-    kitchenImg = loadImage ("images/kitchen.PNG");
-    boyImg = loadImage ("images/boy.png");
-    girlImg = loadImage ("images/girl.png");
-    coinImg = loadImage ("images/coin.gif");
+    bedroomImg = loadImage ("bedroom.png");
+    kitchenImg = loadImage ("kitchen.PNG");
+    boyImg = loadImage ("boy.png");
+    girlImg = loadImage ("girl.png");
+    coinImg = loadImage ("coin.gif");
 
-    blenderImg = loadImage ("images/blender.gif");
-    panImg = loadImage ("images/pan1.gif");
-    mittImg = loadImage ("images/mitt.gif");
-    glassImg = loadImage ("images/glass.gif");
-    spatulaImg = loadImage ("images/spatula.gif");
+    blenderImg = loadImage ("blender.gif");
+    panImg = loadImage ("pan1.gif");
+    mittImg = loadImage ("mitt.gif");
+    glassImg = loadImage ("glass.gif");
+    spatulaImg = loadImage ("spatula.gif");
 
-    closedBookImg = loadImage ("images/closedBook.gif");
-    openBookImg = loadImage ("images/openBook.gif");
-    laptopImg = loadImage ("images/laptop.gif");
-    remoteImg = loadImage ("images/remote.gif");
+    closedBookImg = loadImage ("closedBook.gif");
+    openBookImg = loadImage ("openBook.gif");
+    laptopImg = loadImage ("laptop.gif");
+    remoteImg = loadImage ("remote.gif");
 
     
 }
